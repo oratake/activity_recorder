@@ -2,7 +2,7 @@
 const nextConfig = {
   output: "export",
   distDir: "docs",
-  assetPrefix: "/activity_recorder",
+  assetPrefix: "https://www.oratake.uk/activity_recorder/",
   basePath: "/activity_recorder",
 };
 
